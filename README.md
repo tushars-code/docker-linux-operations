@@ -1,4 +1,5 @@
 # Docker Linux Operations Assignment
+<img width="929" height="381" alt="image" src="https://github.com/user-attachments/assets/1a08458a-3e80-45f5-bc60-6f5bf23ff213" />
 
 ## 1. Five DevOps Concepts
 
