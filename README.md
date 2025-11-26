@@ -14,7 +14,7 @@ I created a Dockerfile that performs basic Linux operations inside a container.
 
 Steps followed:
 
-<!-- docker build -t tushar-linux-demo .
+docker build -t tushar-linux-demo .
 docker run -it tushar-linux-demo
 ls /
 ls /myfolder
@@ -29,4 +29,4 @@ git add .
 git commit -m "Assignment submission"
 git remote add origin https://github.com/tushars-code/docker-linux-operations.git
 
-git push -u origin main -->
+git push -u origin main
